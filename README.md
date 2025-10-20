@@ -6,6 +6,6 @@ Hi! My name's Sebastian and I'm a Computational and Mathematics Engineer from Po
 
 |    |Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec|
 |----|:--:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:--:|
-|2021|    |     |     |[✔](https://github.com/sebaguerrap/Jane-Street-Puzzles/blob/main/2025-back/04-2021-Bracketology_101.ipynb)|     |     |     |     |     |     |     |     |
-|2024|    |     |[✔](https://github.com/sebaguerrap/Jane-Street-Puzzles/blob/main/2025-back/03-2024-Hooks_10.ipynb)|     |     |     |     |     |     |     |     |     |
+|2021|    |     |     |[✔](https://github.com/sebaguerrap/Jane-Street-Puzzles/blob/main/2024-back/04-2021-Bracketology_101.ipynb)|     |     |     |     |     |     |     |     |
+|2024|    |     |[✔](https://github.com/sebaguerrap/Jane-Street-Puzzles/blob/main/2024-back/03-2024-Hooks_10.ipynb)|     |     |     |     |     |     |     |     |     |
 |2025|    |     |     |     |     |     |     |     |     |✔  |     |     |
